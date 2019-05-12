@@ -1,0 +1,49 @@
+body {
+    background: #636161;
+    width: 960px;
+    margin: 0px auto;
+    text-align: center;
+}
+    
+header,
+nav,
+section,
+article,
+p,
+aside,
+footer {
+    padding: 25px;
+    border: 1px solid #fff;
+    margin: 10px;
+}
+    
+header,
+nav,
+section,
+p,
+aside,
+footer {
+    background: lavender;
+    color: #000;
+}
+    
+article {
+    background: #636161;
+    color: #fff;
+    margin: 10px 2px;
+}
+    
+section,
+aside {
+    height: 280px;
+    display: inline-table;
+    margin: 10px 2px;
+}
+    
+aside {
+    width: 335px;
+}
+    
+section{
+    width: 495px;
+}
